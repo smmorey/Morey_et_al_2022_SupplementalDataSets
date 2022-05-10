@@ -1,5 +1,5 @@
 # Supplemental Data Sets
-TEST
+
 *This folder contains Supplemental Data Sets from Morey et al. (2022). 
 Each Data Set includes hydraulic variables (depth, speed, stress, flood power) from 2D simulations of a megaflood in the eastern Himalaya:*
 - **Data Set S1** : every previously identified megaflood deposit from Table 1
